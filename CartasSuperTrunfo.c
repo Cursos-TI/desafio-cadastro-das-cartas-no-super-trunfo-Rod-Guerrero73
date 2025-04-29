@@ -4,16 +4,13 @@
 // Tema 1 - Cadastro das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
 // Siga os comentários para implementar cada parte do desafio.
-//Teste larissa
 
 int main() {
 
     //Declaração das variáveis para as duas cartas
     char estado01, estado02;
-    char codigo_carta01[4];
-    char codigo_carta02[4];
-    char nome_cidade01[50];
-    char nome_cidade02[50];
+    char codigo_carta01[4]; codigo_carta02[4];
+    char nome_cidade01[50]; nome_cidade02[50];
     int populacao01, populacao02, pontos_turismo01, pontos_turismo02;
     float area01, area02, pib01, pib02;
     
